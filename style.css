@@ -10,3 +10,12 @@ color: rgb(0, 0, 0);
 font-size: 100px;
 color: rgb(77, 128, 225);
 }
+
+.display-1{
+    color: tomato;
+    text-transform: lowercase;
+    text-transform: capitalize;
+
+    
+
+}
